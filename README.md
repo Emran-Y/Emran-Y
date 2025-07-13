@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emran Yonas</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://emran-yonas.vercel.app/](https://emran-yonas.vercel.app/)
 
