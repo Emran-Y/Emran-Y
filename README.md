@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emran Yonas</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://emran-yonas.vercel.app/](https://emran-yonas.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://emranyonas.com/](https://emranyonas.com/)
 
 - 💬 Ask me about **React, Next.js, Chakra UI, TanStack, Node.js, Express.js, Nest.js, Golang, Docker, AWS, GCP, Nginx, Kafka, CI/CD, DSA, and AI Engineering**
 
-- 📫 How to reach me **https://emran-yonas.vercel.app/#contact**
+- 📫 How to reach me **https://emranyonas.com/#contact**
 
 - ⚡ Fun fact **I code because punching walls is frowned upon!**
 
